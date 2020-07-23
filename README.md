@@ -42,15 +42,15 @@ Set up a project in your IDE of choice, including weka.jar as a compile-time lib
 `-L <minimum records in leaf>`
 Set minimum number of records for a leaf. (default 10)
 
--N <no. trees>` 
+`-N <no. trees>` 
 Set number of trees to build. (default 60)
 
--G <goodness threshold>` 
+`-G <goodness threshold>` 
 Set goodness threshold for attribute selection. (default 0.3)
 
--S <separation threshold>` 
+`-S <separation threshold>` 
 Set separation threshold for split point selection. (default 0.3)
 
--C <confidence factor>` 
+`-C <confidence factor>` 
 Set confidence for pruning. (default 0.25)
 
